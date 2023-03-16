@@ -378,13 +378,6 @@
         flex-wrap: wrap;
         gap: 8px;
     }
-    .aboutWrapper > div {
-        width: 100%;
-        /* flex-direction: none ; */
-        /* padding: 10px 20px 10px 20px; */
-        /* flex-wrap: nowrap;
-        align-items: center; */
-    }
     .subscribeBlock input {
         padding: 10px 10px;
     }
@@ -450,8 +443,6 @@
         .aboutWrapper {
             flex-direction: column;
         }
-        .aboutWrapper div {
-            width: 100%;
         }
         .footer {
             font-size: 15px;
@@ -509,9 +500,6 @@
     }
     .aboutWrapper {
         flex-direction: column;
-    }
-    .aboutWrapper div {
-        width: 100%;
     }
     .footer {
         font-size: 10px;
