@@ -258,7 +258,7 @@
     font-family: 'Playfair Display', serif
 }
 .aboutWrapper > div {
-    width: 30%;
+    width: 100%;
 }
 .aboutProductsContainer {
     display: flex;
@@ -447,7 +447,6 @@
         .footer {
             font-size: 15px;
         }
-}
 @media (max-width: 576px ) {
     .menuIcon {
         display: block;
